@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531293617121",
+    "project_id": "namma-vastra-450cd",
+    "storage_bucket": "namma-vastra-450cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531293617121:android:1bd7f721382155556070a0",
+        "android_client_info": {
+          "package_name": "com.example.namma_vastra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TGgcVDgkLQEfGH7ANNFlpysXNC6UocM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
